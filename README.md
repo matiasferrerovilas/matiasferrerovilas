@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi there, I'm Matias
 🔭 I'm currently working as a software engineer.<br>🤔 I'm learning about React Native, and microservices with springboot.<br><br>⚡Fun fact My birthday is the same as the Argentine youtuber "Te lo resumo asi nomas" (3/09)
 
 
